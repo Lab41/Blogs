@@ -1,9 +1,15 @@
 # Anything2Vec Code
 ## Karl Ni
 
-For the original blog post, please see the original ![Medium Article](https://gab41.lab41.org/anything2vec-e99ec0dc186#.roxvxhikl)
+For the original blog post, please see the original [Medium Article](https://gab41.lab41.org/anything2vec-e99ec0dc186#.roxvxhikl)
 
 This is MATLAB/Octave code that should build some intuition about embedding any vectors into semantic space. It assumes that you have word vectors hough if you wanted to, you could optimize the word vectors as well. 
+
+## Getting Started
+
+If you don't have MATLAB, you'll need to install that or Octave.
+
+## Where to Look
 
 Start with the `anything2vec.m` script. This is the "main" script. Make sure you have the following variables in memory:
 
